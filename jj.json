@@ -25,59 +25,47 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/jianpian.js"
     },
-    {
-      "key": "drpy_js_奇珍异兽",
-      "name": "奇珍异兽[js]",
+{
+      "key": "天天影视",
+      "name": "👻天天┃高清┃纯净",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/奇珍异兽.js"
+      "api": "csp_TTian",
+      "jar": "./jar/spider.jar",
+      "ext": "http://op.ysdqjs.cn"
     },
-    {
-      "key": "drpy_js_优酷",
-      "name": "优酷[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/优酷.js"
-    },
-    {
-      "key": "drpy_js_腾云驾雾",
-      "name": "腾云驾雾[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/腾云驾雾.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "百忙无果[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/百忙无果.js"
-    },
-    {
-      "key": "搜狗2",
-      "name": " 搜狗┃官源 ",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/caigou.js"
-    },
-       {
-      "key": "影视工厂",
-      "name": "影视 | 影视工厂",
+        {
+      "key": "热播之家",
+      "name": "🔥热播┃高清┃多线",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "分类url:https://www.ysgc.fun/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
+      "ext": {
+        "线路数组": "data-toggle=\"tab&&</a>",
+        "线路标题": ">&&<",
+        "分类": "国产剧$13#港台剧$14#日韩剧$15#海外剧$16#动作$6#喜剧$7#爱情$8#科幻$9#恐怖$10#剧情$11#战争$12#纪录片$3#国产动漫$24#日韩动漫$25#港台动漫$26#欧美动漫$27#大陆综艺$17#港台综艺$18#日韩综艺$20#欧美综艺$21#短剧$28",
+        "分类url": "https://rebozj.pro/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+      }
     },
-{
-      "key": "nangua",
-      "name": "🎃┃南瓜┃影视",
+     {
+      "key": "追剧很卷",
+      "name": "☀️优选┃超清┃流畅",
       "type": 3,
-      "playerType": "2",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/南瓜.js"
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片地区": "圥忈制作",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+        "分类url": "https://www.freeokk.pro/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#剧集$2#动漫$3#综艺$4#短剧$5"
+      }
     },
     	 {"key":"csp_Jpys","name":"金牌",
             "type": 3,
