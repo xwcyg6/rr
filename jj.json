@@ -105,6 +105,16 @@
       "changeable": 1,
       "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
     },
+       {
+      "key": "厂长影视",
+      "name": "💛厂长┃超清┃纯净",
+      "type": 3,
+      "api":"./dr_py/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./dr_py/js/cangzan.js"
+    },
     {
       "key": "厂长",
       "name": "厂长┃不卡",
