@@ -11,6 +11,17 @@
     }
   ],
   "sites": [
+        {
+      "key": "csp_XYQHiker_七新影视",
+      "name": "七新影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "./jar/美妞.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/七新影视.json"
+    },
     {
       "key": "drpy_js_荐片",
       "name": "荐片[js]",
@@ -27,6 +38,53 @@
       "ext": "http://op.ysdqjs.cn"
     },
         {
+      "key": "文采",
+      "name": "文采┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "jar": "./jar/美妞.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "萌米",
+      "name": "萌米┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "jar": "./jar/美妞.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    {
+      "key": "欢视",
+      "name": "欢视┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "jar": "./jar/美妞.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+    },
+    {
+      "key": "厂长",
+      "name": "厂长┃不卡",
+      "type": 3,
+      "api": "csp_NewCz",
+      "jar": "./jar/美妞.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy77.com/"
+    },
+        {
       "key": "热播之家",
       "name": "🔥热播┃高清┃多线",
       "type": 3,
@@ -40,6 +98,18 @@
         "分类": "国产剧$13#港台剧$14#日韩剧$15#海外剧$16#动作$6#喜剧$7#爱情$8#科幻$9#恐怖$10#剧情$11#战争$12#纪录片$3#国产动漫$24#日韩动漫$25#港台动漫$26#欧美动漫$27#大陆综艺$17#港台综艺$18#日韩综艺$20#欧美综艺$21#短剧$28",
         "分类url": "https://rebozj.pro/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
       }
+    },
+        {
+      "key": "Auete",
+      "name": "奥特┃无广",
+      "type": 3,
+      "api": "csp_Auete",
+      "timeout": 15,
+      "jar": "./jar/美妞.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.pro/"
     },
     {
       "key": "即看影视",
