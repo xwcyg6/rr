@@ -11,18 +11,12 @@
     }
   ],
   "sites": [
-     {
-      "key": "drpy_js_豆瓣",
-      "name": "美妞祝大家龙年大发！事事顺心!",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/douban.js"
-    },
+   {"key":"drpy_js_豆瓣","name":"豆瓣[js]","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/drpy.js"},
     {
       "key": "drpy_js_荐片",
       "name": "荐片[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+     "api":"./dr_py/libs/drpy2.min.js",
       "ext": "./js/jianpian.js"
     },
 {
