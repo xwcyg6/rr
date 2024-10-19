@@ -11,6 +11,13 @@
     }
   ],
   "sites": [
+     {
+      "key": "drpy_js_豆瓣",
+      "name": "豆瓣[js]",
+      "type": 3,
+      "api": "./dr_py/libs/drpy2.min.js",
+      "ext": "./dr_py/js/drpy.js"
+    },
         {
       "key": "csp_XYQHiker_七新影视",
       "name": "七新影视",
