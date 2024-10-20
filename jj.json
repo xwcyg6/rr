@@ -74,19 +74,16 @@
       "api": "./dr_py/libs/drpy2.min.js",
       "ext": "./dr_py/js/优酷.js"
     },
-    {
-      "key": "drpy_js_腾云驾雾",
-      "name": "腾云驾雾[js]",
+     {
+      "key": "清风",
+      "name": "腾讯┃解析",
       "type": 3,
-      "api": "./dr_py/libs/drpy2.min.js",
-      "ext": "./dr_py/js/qingfeng.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "百忙无果[js]",
-      "type": 3,
-      "api": "./dr_py/libs/drpy2.min.js",
-      "ext": "./dr_py/js/mgtv.js"
+      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/rr/refs/heads/main/dr_py/libs/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/rr/refs/heads/main/dr_py/js/qingfeng.js"
     },
      {
       "key": "小猫",
