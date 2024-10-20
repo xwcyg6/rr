@@ -74,16 +74,28 @@
       "api": "./dr_py/libs/drpy2.min.js",
       "ext": "./dr_py/js/优酷.js"
     },
-     {
+        {
       "key": "清风",
       "name": "腾讯┃解析",
       "type": 3,
-      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/rr/refs/heads/main/dr_py/libs/drpy.min.js",
+      "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/rr/refs/heads/main/dr_py/js/qingfeng.js"
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"
+    },
+    {
+      "key": "小满",
+      "name": "芒果┃解析",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/mgtv.js"
     },
      {
       "key": "小猫",
